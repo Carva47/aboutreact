@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(3, 3, 3, 0.041);
+}
+.aboutMe{
+    text-align: center;
+
+}
+.aboutMe h1{
+    color:rgb(231, 168, 7);
+}
+#textabout{
+    font-size: 15px;
+    color: rgba(41, 40, 40, 0.849);
+    font-weight: 600;
+    padding: 1px 180px;
+    text-align: justify;
+}
+#textabout a{
+    text-decoration: none;
+    font-size: 15px;
+    color: rgba(41, 40, 40, 0.849);
+}

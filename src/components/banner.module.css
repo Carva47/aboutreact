@@ -1,0 +1,28 @@
+.fundo{
+    
+    background: url(/src/img/fundoimg.WEBP) center /cover no-repeat;
+ 
+}
+.tittle{
+    background-color: rgba(0, 0, 0, 0.452);
+    padding:150px;
+
+    color: white;
+}
+.tittle h2, h3,span {
+    
+    display:inline;
+
+}
+.tittle h2{
+    font-size: 45px;
+}
+.tittle h3{
+    font-size: 35px;
+}
+.tittle span{
+    color: rgb(255, 185, 7);
+}
+#catp{
+    font-size: 22px;
+}
