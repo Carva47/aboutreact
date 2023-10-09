@@ -1,0 +1,23 @@
+.contactContainer{
+    text-align: center;  
+
+}
+.contactContainer h1{
+    color: rgb(255, 185, 7);
+}
+.TypeContact{
+    display: flex;
+    justify-content:space-around;
+    padding:10px;
+    flex-wrap:wrap;   
+}
+.contactContainer img {
+    width:30px;
+}
+#cards{
+    margin:10px;
+}
+#cards p{
+    font-size: 17px;
+    font-weight: 600;
+}
